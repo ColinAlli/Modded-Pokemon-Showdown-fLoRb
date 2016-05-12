@@ -4,4 +4,14 @@ Pleas also note that this will not be all game files just modded folders and wha
 
 
 
-NOTE: Acess Differet Tabs With Branches
+NOTE: Acess Differet Tabs With Branches, Or To Download Click The .zip Files, Next Find & Click View Raw, It Will Download
+The File As A Folder! : For Example: "chat-plugins"
+
+To Admins, If You Even Think About Adding This To The Game, Pleas Add It As A Hackmons. So If You Add It People OWnt Complain About Pokemon Being Broken Or To Over-Powerd. Also If You Could Add It Feal Free To  Sugest Changes In Pokemon Or Just Random Stuff, I Would Be Happy To Change It. :)
+
+
+
+
+
+fLoRb - 2016
+
