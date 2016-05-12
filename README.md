@@ -12,7 +12,7 @@ This Feature Is Gimikey And There Is No "True" Tutorial.
 
 
 #Why I Dont Add All Files
-I Dont Add All Files Because I Dont Want To Screw Up The Real Game Because "vertifier.js", This Is The File That Links To The Real Game And Its Possible I Can Make A Loop-Hole And Actualy "Hack" The Real Game!
+I Dont Add All Files Because I Dont Want To Screw Up The Real Game Because "index.json", This Is The File That Links To The Real Game And Its Possible I Can Make A Loop-Hole And Actualy "Hack" The Real Game!
 
 #HELP 
 When I Put "Dont Use This" I Mean Dont Use This File.
