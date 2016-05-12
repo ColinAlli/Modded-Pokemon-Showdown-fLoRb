@@ -11,8 +11,9 @@ To Admins, If You Even Think About Adding This To The Game, Pleas Add It As A Ha
 This Feature Is Gimikey And There Is No "True" Tutorial.
 
 
+#Why I Dont Add All Files
+I Dont Add All Files Because I Dont Want To Screw Up The Real Game Because "vertifier.js", This Is The File That Links To The Real Game And Its Possible I Can Make A Loop-Hole And Actualy "Hack" The Real Game!
 
 
-
-fLoRb - 2016
+#fLoRb - 2016
 
