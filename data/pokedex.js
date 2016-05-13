@@ -11293,4 +11293,17 @@ exports.BattlePokedex = {
 		color: "Brown",
 		eggGroups: ["Human-Like", "Ground"],
 	},
+	hyperfade: {
+		num: 188765778234256544253,
+		species: "Admin",
+		types: ["Grass", "Poison"],
+		genderRatio: {M: 0.875, F: 0.125},
+		baseStats: {hp: 99999, atk: 99999, def: 99999, spa: 9999, spd: 999999, spe: 99999},
+		abilities: {0: "Overgrow", H: "Chlorophyll"},
+		heightm: 0.7,
+		weightkg: 6.9,
+		color: "Green",
+		evos: ["ivysaur"],
+		eggGroups: ["Monster", "Grass"],
+	},
 };
