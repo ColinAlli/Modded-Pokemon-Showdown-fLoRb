@@ -2241,7 +2241,7 @@ exports.BattleAbilities = {
 		num: 69,
 	},
 	"roughskin": {
-		desc: "Pokemon making contact with this Pokemon lose 1/8 of their maximum HP, rounded down.",
+		desc: "Easteregg :p.",
 		shortDesc: "Pokemon making contact with this Pokemon lose 1/8 of their max HP.",
 		onAfterDamageOrder: 1,
 		onAfterDamage: function (damage, target, source, move) {
