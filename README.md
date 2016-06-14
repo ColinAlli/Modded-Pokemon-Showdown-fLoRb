@@ -5,7 +5,7 @@ Also note that this will not be all game files just modded folders and what ever
 
 
 
-To Admins, If You Even Think About Adding This To The Game, Pleas Add It As A Hackmons. So If You Add It People OWnt Complain About Pokemon Being Broken Or To Over-Powerd. Also If You Could Add It Feal Free To  Sugest Changes In Pokemon Or Just Random Stuff, I Would Be Happy To Change It. :)
+To Admins, If You Even Think About Adding This To The Game, Pleas Add It As A Hackmons. So If You Add It People Wont Complain About Pokemon Being Broken Or To Over-Powerd. Also If You Could Add It Feal Free To  Sugest Changes In Pokemon Or Just Random Stuff, I Would Be Happy To Change It. :)
 
 #How To Install
 This Feature Is Gimikey And There Is No "True" Tutorial.
