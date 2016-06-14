@@ -25,6 +25,11 @@ Then Just Tell Me On My Youtube Channel!
 Yes I Will, Its In Beta.
 
 
+#IMPORTANT
+Pleas Note That This Is An Old Project And Can Remain Untouched For Long Periods Of Time. This Project Is Tagged As Semi-Active
+I Wont Be On This For Weeks At A Time At Some Points. What Im Saying Is This Was Forgotten For A While And I Will Try To Eddit 
+It As Much As Possible. This Was Last Eddited Probaly Like 3 Months Ago So Yeah You Get What Im Going After.
+
 #Credits :
 fLoRb  
 
