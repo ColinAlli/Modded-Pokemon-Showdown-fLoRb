@@ -1,11 +1,3 @@
-#THIS PROJECT HAS BEEN SHUTDOWN NO FURTHER UPDATES CHECK BOTTOM OF PAGE FOR NEW PROJECT
-#THIS PROJECT HAS BEEN SHUTDOWN NO FURTHER UPDATES CHECK BOTTOM OF PAGE FOR NEW PROJECT
-#THIS PROJECT HAS BEEN SHUTDOWN NO FURTHER UPDATES CHECK BOTTOM OF PAGE FOR NEW PROJECT
-#THIS PROJECT HAS BEEN SHUTDOWN NO FURTHER UPDATES CHECK BOTTOM OF PAGE FOR NEW PROJECT
-#THIS PROJECT HAS BEEN SHUTDOWN NO FURTHER UPDATES CHECK BOTTOM OF PAGE FOR NEW PROJECT
-#THIS PROJECT HAS BEEN SHUTDOWN NO FURTHER UPDATES CHECK BOTTOM OF PAGE FOR NEW PROJECT
-#THIS PROJECT HAS BEEN SHUTDOWN NO FURTHER UPDATES CHECK BOTTOM OF PAGE FOR NEW PROJECT
-#THIS PROJECT HAS BEEN SHUTDOWN NO FURTHER UPDATES CHECK BOTTOM OF PAGE FOR NEW PROJECT
 
 # Modded-Pokemon-Showdown-fLoRb
 A modded version of "Pokemon Showdown", files taken from "Zarel's" Github. https://www.youtube.com/channel/UCiKzk3eF-Wm8av1Qdd0GCEA YT = fLoRb
@@ -37,7 +29,7 @@ Yes I Will, Its In Beta.
 #IMPORTANT
 Pleas Note That This Is An Old Project And Can Remain Untouched For Long Periods Of Time. This Project Is Tagged As Semi-Active
 I Wont Be On This For Weeks At A Time At Some Points. What Im Saying Is This Was Forgotten For A While And I Will Try To Eddit 
-It As Much As Possible. This Was Last Edited Probaly Like 3 Months Ago So Yeah You Get What Im Going After. EDDIT I Last Updated The Actual Projest Almost 1 Year Ago XD
+It As Much As Possible. This Was Last Edited Probaly Like 3 Months Ago So Yeah You Get What Im Going After. EDIT I Last Updated The Actual Projest Almost 1 Year Ago XD
 
 #Credits :
 fLoRb  
@@ -46,5 +38,5 @@ fLoRb
 
 #fLoRb - 2016
 
-
+# Well going into 2018 and this is still trashed XD
 
